@@ -1,8 +1,8 @@
 {
     "name": "JesterTimeout",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/Rosentti/JesterTimeout",
-    "description": "Puts Jesters go back into their box after a configurable timeout",
+    "description": "Puts Jesters back into their boxes after a configurable timeout",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
     ]

@@ -6,7 +6,7 @@ using HarmonyLib.Tools;
 
 namespace JesterTimeout;
 
-[BepInPlugin("Rosentti.JesterTimeout", "JesterTimeout", "1.0.0")]
+[BepInPlugin("Rosentti.JesterTimeout", "JesterTimeout", "1.0.1")]
 public class Plugin : BaseUnityPlugin
 {
     public static ConfigEntry<int> TimeoutSecondsConfig { get; private set; }
